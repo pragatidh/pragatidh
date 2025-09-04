@@ -8,9 +8,8 @@
 Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else 😊 </h4>
 
 
-
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heya_pragatiii.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/totallynotpra) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thatgurlp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/honeydewhugs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pra_tidh2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pragatidh1849@gmail.com ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/totallynotpra) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thatgurlp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/honeydewhugs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pra_tidh2003)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heya_pragatiii.d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pragatidh1849@gmail.com ) 
 
 
 # 💻 Tech Stack:
