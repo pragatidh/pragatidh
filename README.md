@@ -1,5 +1,10 @@
 <h1 align="center">Hey👋 Pragati here </h1>
-<h3 align="center">A passionate full stack developer from Pune, India</h3>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/pragatidh/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;from%20Pune%20India&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <h4 align="center"> 🔭 I’m learning so much these days that my brain feels full but tbh I enjoy it !!
 
@@ -9,7 +14,7 @@ Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else �
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/totallynotpra) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thatgurlp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/honeydewhugs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pra_tidh2003)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heya_pragatiii.d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pragatidh1849@gmail.com ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/totallynotpra) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thatgurlp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/honeydewhugs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pra_tidh2003)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heya_pragatiii.d) 
 
 
 # 💻 Tech Stack:
