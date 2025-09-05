@@ -35,3 +35,19 @@ Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else �
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pragatidh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br/>
+
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/pragatidh/custom-icon-badges -->
+<!-- View counter - https://github.com/pragatidh/Simple-View-Counter -->
+<p align="center">
+  
+  <a href="https://github.com/pragatidh?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pragatidh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/pragatidh?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/pragatidh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+</p>
+
+<br/>
