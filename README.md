@@ -7,7 +7,8 @@
 </p>
 
 <h4 align="center"> 🔭 I’m learning so much these days that my brain feels full but tbh I enjoy it !!
-
+  
+When I'm not deep in coding you'll probably find me gaming 🎮
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else 😊 </h4>
