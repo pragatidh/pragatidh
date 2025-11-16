@@ -23,7 +23,7 @@ Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else �
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/totallynotpra) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thatgurlp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pleasant_Engine1087) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pra_tidh2003)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heya_pragatiii.d) 
 
 ## 💻 Tech Stack:
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C++-B347FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin:5px;" />
   <img src="https://img.shields.io/badge/TypeScript-B347FF?style=for-the-badge&logo=typescript&logoColor=white" style="margin:5px;" />
   <img src="https://img.shields.io/badge/JavaScript-B347FF?style=for-the-badge&logo=javascript&logoColor=white" style="margin:5px;" />
