@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋 Pragati here </h1>
+<h1 align="center">Hey Pragati here </h1>
 
 <p align="center">
   <!-- Typing SVG by pragatidh - https://github.com/pragatidh/readme-typing-svg -->
@@ -16,11 +16,7 @@ Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else �
 <div align="center">
 
 
-## 💬 Let's Connect !
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/totallynotpra) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Thatgurlp) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pleasant_Engine1087) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pra_tidh2003)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heya_pragatiii.d) 
 
 ## 💻 Tech Stack:
 <p align="center">
@@ -67,10 +63,18 @@ Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else �
 </p>
 
 <br/>
-</div>
 
 
-<div align="center">
+## 💬 Let's Connect !
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227)
+[![Pinterest](https://img.shields.io/badge/Pinterest-6A0DAD?logo=pinterest&logoColor=white)](https://pinterest.com/totallynotpra)
+[![Quora](https://img.shields.io/badge/Quora-6A0DAD?logo=quora&logoColor=white)](https://quora.com/profile/Thatgurlp)
+[![Reddit](https://img.shields.io/badge/Reddit-6A0DAD?logo=reddit&logoColor=white)](https://reddit.com/user/Pleasant_Engine1087)
+[![X](https://img.shields.io/badge/X-6A0DAD?logo=x&logoColor=white)](https://x.com/pra_tidh2003)
+[![Instagram](https://img.shields.io/badge/Instagram-6A0DAD?logo=instagram&logoColor=white)](https://instagram.com/heya_pragatiii.d)
+
+
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75"/>
