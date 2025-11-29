@@ -49,7 +49,7 @@ Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else �
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pragatidh&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+![](https://nirzak-streak-stats.vercel.app/?user=pragatidh&theme=default&hide_border=false)<br/>
 
 
 <br/>
