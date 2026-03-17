@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by pragatidh - https://github.com/pragatidh/readme-typing-svg -->
   <a href="https://github.com/pragatidh/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;from%20Pune%20India&font=Fira%20Code&center=true&width=440&height=45&color=B347FF&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20developer;from%20Pune%20India&font=Fira%20Code&center=true&width=440&height=45&color=B347FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h4 align="center"> 🔭 I’m learning so much these days that my brain feels full but tbh I enjoy it !!
@@ -67,10 +67,10 @@ Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else �
 
 ## 💬 Let's Connect !
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227.)
 [![Pinterest](https://img.shields.io/badge/Pinterest-6A0DAD?logo=pinterest&logoColor=white)](https://pinterest.com/totallynotpra)
 [![Quora](https://img.shields.io/badge/Quora-6A0DAD?logo=quora&logoColor=white)](https://quora.com/profile/Thatgurlp)
-[![Reddit](https://img.shields.io/badge/Reddit-6A0DAD?logo=reddit&logoColor=white)](https://reddit.com/user/Pleasant_Engine1087)
+[![Reddit](https://img.shields.io/badge/Reddit-6A0DAD?logo=reddit&logoColor=white)](https://reddit.com/user/Pleasant_Engine1087.)
 [![X](https://img.shields.io/badge/X-6A0DAD?logo=x&logoColor=white)](https://x.com/pra_tidh2003)
 [![Instagram](https://img.shields.io/badge/Instagram-6A0DAD?logo=instagram&logoColor=white)](https://instagram.com/heya_pragatiii.d)
 
