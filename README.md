@@ -1,4 +1,4 @@
-<h1 align="center">Hey Pragati here </h1>
+<h1 align="center">Hey Pragatii here </h1>
 
 <p align="center">
   <!-- Typing SVG by pragatidh - https://github.com/pragatidh/readme-typing-svg -->
@@ -11,7 +11,7 @@
 When I'm not deep in coding you'll probably find me gaming 🎮
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else 😊 </h4>
+Get in touch ✉️ **pragati.dhobale@gmail.com** for project or anything else 😊 </h4>
 
 <div align="center">
 
