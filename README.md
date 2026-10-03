@@ -68,8 +68,8 @@ Get in touch ✉️ **pragatidh1849@gmail.com** for project or anything else �
 ## 💬 Let's Connect !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-dhobale-a83b60227.)
-[![Pinterest](https://img.shields.io/badge/Pinterest-6A0DAD?logo=pinterest&logoColor=white)](https://pinterest.com/totallynotpra)
-[![Quora](https://img.shields.io/badge/Quora-6A0DAD?logo=quora&logoColor=white)](https://quora.com/profile/Thatgurlp)
+[![Pinterest](https://img.shields.io/badge/Pinterest-6A0DAD?logo=pinterest&logoColor=white)](https://pinterest.com/totally.notpra)
+[![Quora](https://img.shields.io/badge/Quora-6A0DAD?logo=quora&logoColor=white)](https://quora.com/profile/That.gurlp)
 [![Reddit](https://img.shields.io/badge/Reddit-6A0DAD?logo=reddit&logoColor=white)](https://reddit.com/user/Pleasant_Engine1087.)
 [![X](https://img.shields.io/badge/X-6A0DAD?logo=x&logoColor=white)](https://x.com/pra_tidh2003)
 [![Instagram](https://img.shields.io/badge/Instagram-6A0DAD?logo=instagram&logoColor=white)](https://instagram.com/heya_pragatiii.d)
