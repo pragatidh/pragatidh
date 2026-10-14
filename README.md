@@ -6,12 +6,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20developer;from%20Pune%20India&font=Fira%20Code&center=true&width=440&height=45&color=B347FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<h4 align="center"> 🔭 I’m learning so much these days that my brain feels full but tbh I enjoy it !!
+<h4 align="center"> 🔭 Im learning so much these days that my brain feels full but tbh i enjoy it !!
   
-When I'm not deep in coding you'll probably find me gaming 🎮
+When im not deep in coding u'll probably find me gaming 🎮
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Get in touch ✉️ **pragati.dhobale@gmail.com** for project or anything else 😊 </h4>
+Get in touch ✉️ **pragatiidh1849@gmail.com** for project or anything else 😊 </h4>
 
 <div align="center">
 
